@@ -29,7 +29,7 @@ Observe how the workplane adapts to the view - if you like to keep things less f
 ![view_adapt](https://github.com/BenjaminSauder/Workplane/blob/master/doc/view_adapt.gif)
 
 
-Here is a mini example, set workplane to polygon, inset face then move the newly inseted face, but as you see it automatically uses the right axis constraints, thus keeps the correct alignement to the polygon. 
+Here is a mini example, set workplane to polygon, inset face then move the newly inserted face, but as you see it automatically uses the right axis constraints, thus keeps the correct alignment to the polygon. 
 
 ![example](https://github.com/BenjaminSauder/Workplane/blob/master/doc/example.gif)
 
